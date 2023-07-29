@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**SuperAmy99/SuperAmy99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on building my own portfolio.
+- 🌱 I’m constantly learning and exploring new data analysis techniques and tools to enhance my skills.
+- 👯 I’m looking to collaborate with data-driven professionals from various industries to tackle complex challenges.
+- 🤔 I’m looking for help with advanced statistical analysis and machine learning algorithms.
+- 💬 Ask me about my passion for data visualization and how I use it to communicate complex information effectively.
+- 📫 How to reach me: lilintong9@gmail.com
+- 😄 Pronouns: she
+- ⚡ Fun fact:
+  - My favorite movie is _Fight Club_
+  - I have previously worked at a Top 3 music company which is super fun
+  - I absolutely love indulging in some **crispy fried chicken** after a productive day!
