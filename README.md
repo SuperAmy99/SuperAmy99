@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with advanced statistical analysis and machine learning algorithms.
 - 💬 Ask me about my passion for data visualization and how I use it to communicate complex information effectively.
 - 📫 How to reach me: lilintong9@gmail.com
-- 😄 Pronouns: she
+- 😄 Pronouns: she/her
 - ⚡ Fun fact:
   - My favorite movie is _Fight Club_
   - I have previously worked at a Top 3 music company which is super fun
