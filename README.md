@@ -4,7 +4,7 @@
 - 🌱 I’m constantly learning and exploring new data analysis techniques and tools to enhance my skills.
 - 👯 I’m looking to collaborate with data-driven professionals from various industries to tackle complex challenges.
 - 🤔 I’m looking for help with advanced statistical analysis and machine learning algorithms.
-- 💬 Ask me about my passion about making the world a better place
+- 💬 Ask me about my passion for making the world a better place
 - 📫 How to reach me: lilintong9@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact:
